@@ -1,4 +1,4 @@
-#+TODO: _desire | _restraint(r) _restraint_plus(r+) _unrestraint(u)
+#+TODO: _desire | _restraint(r) _restraint_plus(+) _unrestraint(u)
 # After restraint, do want you least want to do (+) 
 * Redeem Yourself 
 ** Desire Classification
@@ -10,3 +10,21 @@
 *** Youtube & Bilibili (yb)
 *** variety show (v)
 *** music & series & movie & documentary in memory or not (m)
+*** eating snack (e)
+* 2018-4-4
+** _unrestraint i 
+** _restraint_plus i
+   CLOSED: [2018-04-11 周三 09:41]
+
+** _restraint_plus i
+   CLOSED: [2018-04-11 周三 09:45]
+** _restraint_plus wtz 
+   CLOSED: [2018-04-11 周三 10:01]
+** _restraint pt
+   CLOSED: [2018-04-11 周三 10:51]
+** _restraint i
+   CLOSED: [2018-04-11 周三 10:53]
+** _restraint_plus m
+   CLOSED: [2018-04-11 周三 10:58]
+** _restraint i
+   CLOSED: [2018-04-11 周三 11:03]
